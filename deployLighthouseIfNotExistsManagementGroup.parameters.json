@@ -9,22 +9,22 @@
             "value": "This is the ultimate MSP"
         },
         "managedByTenantId": {
-            "value": "68f77607-101b-4f74-9093-d17ebe573a21"
+            "value": "893b4e2a-9996-4732-85ed-79935ffc465f"
         },
         "managedByAuthorizations": {
             "value": [
                 {
-                    "principalId": "5338b50b-f4a3-4662-bbd7-8d8dc292a059",
+                    "principalId": "0a1bda8a-2363-4d89-810f-422632155fac",
                     "principalIdDisplayName": "Insight-MS-APAC-Azure-Guardian-Consultant",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
                 },
 				 {
-					"principalId": "fc6adc97-5c32-48bf-b492-64396a0e9195",
+					"principalId": "09c9f22d-0bd1-49c9-b106-118ae9b59c63",
 					"roleDefinitionId": "434105ed-43f6-45c7-a02f-909b2ba83430",
 					"principalIdDisplayName": "Insight-MS-APAC-AU-Azure-PAL"
 				},
 					{
-					 "principalId": "3ac7a167-9ad7-4992-a7ea-4719c7c9206d",
+					 "principalId": "985a46cc-2f74-4824-8e10-8937892d0768",
 					 "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
 					 "principalIdDisplayName": "Insight-MS-APAC-Azure-Guardian-ArchitectOwner"
 					}
