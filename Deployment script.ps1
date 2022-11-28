@@ -1,0 +1,2 @@
+﻿$workbooks = Invoke-WebRequest https://api.github.com/repos/helderpinto/AzureOptimizationEngine/contents/views/workbooks
+$workbooksjson = ($workbooks | ConvertFrom-Json ).download_url | Select-String -SimpleMatch "-arm.json"
